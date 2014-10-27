@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## About
 
 bootplate is a template for a minimal Enyo and Onyx web application.
@@ -13,3 +14,7 @@ give you just the bootplate repo without any of the supporting libraries.
 As an alternative, you can use a Git client to clone this repo and then initialize
 submodules. This is good if you want to work with the latest version of the code from
 GitHub that we may not have packaged into an official release.
+=======
+mobile
+======
+>>>>>>> 128b0957986b11c3a3fe13f10176556b0679fa6e
